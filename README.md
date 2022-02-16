@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hola 👋, I'm Md Junaeid</h1>
 <h3 align="center">Full Stack Developer | MERN and a learner.</h3>
 <img
