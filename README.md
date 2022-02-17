@@ -215,12 +215,12 @@
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaeid18&show_icons=true&locale=en&layout=compact&theme=vue-dark"
     alt="Junaeid18"
   />
   <img
-    align="right"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=Junaeid18&count_private=true&theme=vue-dark&show_icons=true"
     alt="Junaeid18"
   />
