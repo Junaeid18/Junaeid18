@@ -213,8 +213,9 @@
   </a>
 </p>
 
+<p>
   <img
-    align="left" style="margin-top:20px;"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Junaeid18&show_icons=true&locale=en&layout=compact&theme=vue-dark"
     alt="Junaeid18"
   />
@@ -223,4 +224,5 @@
     src="https://github-readme-stats.vercel.app/api?username=Junaeid18&count_private=true&theme=vue-dark&show_icons=true"
     alt="Junaeid18"
   />
+  </p>
 
