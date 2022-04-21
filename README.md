@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif"/>
 <h1 align="center">Hola 👋, I'm Md Junaeid</h1>
-<h3 align="center">Full Stack Developer(MERN) and a learner.</h3>
+<h3 align="center">Web Developer and a learner.</h3>
 <img
   align="right"
   width="400"
